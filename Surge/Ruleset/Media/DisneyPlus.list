@@ -12,5 +12,6 @@ DOMAIN-SUFFIX,disney.demdex.net
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,us-east-1.amazonaws.com
 DOMAIN,disney.my.sentry.io
-IP-CIDR,5.28.194.150/32
 DOMAIN-KEYWORD,Disney
+IP-CIDR,5.28.194.150/32,no-resolve
+
