@@ -13,5 +13,5 @@ DOMAIN,hboasia3-i.akamaihd.net,HBO_GO_HKG
 DOMAIN,hboasia4-i.akamaihd.net,HBO_GO_HKG
 DOMAIN,hboasia5-i.akamaihd.net,HBO_GO_HKG
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,HBO_GO_HKG
-DOMAIN,hbolb.onwardsmg.com
-DOMAIN-SUFFIX,onwardsmg.com
+DOMAIN,hbolb.onwardsmg.com,HBO_GO_HKG
+DOMAIN-SUFFIX,onwardsmg.com,HBO_GO_HKG
